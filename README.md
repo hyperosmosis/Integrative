@@ -6,3 +6,4 @@ Description of the files are below
 * 'WK_Functions.R' includes all the helper functions for the method and requires installation of the 'SKAT' package.
 * 'WK_Type1.R' includes code for running simulations on the assessing Type 1 error of the method
 * 'WK_Analysis.R' includes code for analyzing and visualizing the results of the simulations
+* 'Weighted_Batch.sh' includes code for sending multiple jobs to HPC to run simulations under different parameters.
