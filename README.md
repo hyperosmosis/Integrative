@@ -7,3 +7,4 @@ Description of the files are below
 * 'WK_Type1.R' includes code for running simulations on the assessing Type 1 error of the method
 * 'WK_Analysis.R' includes code for analyzing and visualizing the results of the simulations
 * 'Weighted_Batch.sh' includes code for sending multiple jobs to HPC to run simulations under different parameters.
+* 'RealData.R' contains code for grouping metabolites into KEGG pathways needed in order to run the method.
